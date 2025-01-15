@@ -5,8 +5,10 @@
 
  
 <h2>📜 Cybersecurity Certifications:</h2>
+  - <b>Google Cybersecurity Professional Certificate</b>
 
-  - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/7fbe85cb-1731-4a67-844d-01fcff18791a/linked_in_profile)
+  - [Credly Verified Badge](https://www.credly.com/badges/7fbe85cb-1731-4a67-844d-01fcff18791a/linked_in_profile)
+  - [Completion Certificate](https://www.coursera.org/account/accomplishments/professional-cert/92U37CCU7XHM)
  
  
   
