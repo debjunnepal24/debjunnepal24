@@ -1,4 +1,4 @@
-<h1>Hi, I'm Debjun! <br/><a href="https://github.com/debjunnepal24">Programmer</a>, <a href="https://www.linkedin.com/in/debjun-nepal-9987272b2/">Cybersecurity Enthusiast </a>
+<h1>Hi, I'm Debjun! <br/><a href="https://github.com/debjunnepal24">Programmer</a>, <a href="https://www.linkedin.com/in/debjunnepal/">Cybersecurity Enthusiast </a>
 
 
 <h2>📜 Cybersecurity Certifications:</h2>
