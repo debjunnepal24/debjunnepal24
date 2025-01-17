@@ -9,6 +9,7 @@
   
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
-      - <a href="https://github.com/debjunnepal24/HoneypotLab">Honeypot Deployment and Attack Monitoring with Microsoft Sentinel</a>
+      - <a href="https://github.com/debjunnepal24/HoneypotLab">Honeypot Deployment and SIEM Analysis Using Sentinel
+</a>
      
   
